@@ -65,7 +65,7 @@ header p {
 }
 
 .itinerary-image {
-    width: 900px; /* Make the div take full width of its parent (.container) */
+    width: 90%; /* Make the div take full width of its parent (.container) */
     text-align: center; /* Center the image if it's smaller than its container */
     margin: 0 auto;
     margin-bottom: 40px; /* Space between the image and the first day entry */
